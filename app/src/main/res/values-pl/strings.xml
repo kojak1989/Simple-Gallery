@@ -60,13 +60,13 @@
     <string name="no_editor_found">Nie znaleziono edytora zdjęć</string>
     <string name="unknown_file_location">Nieznana lokalizacja pliku</string>
     <string name="error_saving_file">Nie udało się zastąpić pliku</string>
-    <string name="rotate_left">Obróć w lewo</string>
-    <string name="rotate_right">Obróć w prawo</string>
+    <string name="rotate_left">Obrót w lewo</string>
+    <string name="rotate_right">Obrót w prawo</string>
     <string name="rotate_one_eighty">Obróć o 180o</string>
-    <string name="flip">Flip</string>
-    <string name="flip_horizontally">Flip poziomo</string>
-    <string name="flip_vertically">Flip pionowo</string>
-    <string name="edit_with">Edit with</string>
+    <string name="flip"Obróć</string>
+    <string name="flip_horizontally">Obróć poziomo</string>
+    <string name="flip_vertically">Obróć pionowo</string>
+    <string name="edit_with">edytuj za pomocą</string>
 
     <!-- Set wallpaper -->
     <string name="simple_wallpaper">Tapeta</string>
@@ -76,8 +76,8 @@
     <string name="no_capable_app_found">Brak odpowiednich ustawień</string>
     <string name="setting_wallpaper">Ustawianie tapety&#8230;</string>
     <string name="wallpaper_set_successfully">Tapeta ustawiona</string>
-    <string name="portrait_aspect_ratio">Portrait aspect ratio</string>
-    <string name="landscape_aspect_ratio">Landscape aspect ratio</string>
+    <string name="portrait_aspect_ratio">Pionowa proporcja obrazu</string>
+    <string name="landscape_aspect_ratio">Pozioma proporcja obrazu</string>
 
     <!-- Settings -->
     <string name="show_hidden_media">Pokaż ukryte foldery</string>
@@ -91,10 +91,10 @@
     <string name="images_and_videos">Obrazy i wideo</string>
     <string name="loop_videos">Pętla wideo</string>
     <string name="animate_gifs">Animowanie GIFy z miniaturkami</string>
-    <string name="max_brightness">Max brightness when viewing media</string>
+    <string name="max_brightness">Maksymalna jasność gdy wyświetlane są multimedia</string>
     <string name="crop_thumbnails">Crop thumbnails into squares</string>
     <string name="screen_rotation_by">Rotate fullscreen media by</string>
-    <string name="screen_rotation_system_setting">System setting</string>
+    <string name="screen_rotation_system_setting">Ustawienia systemowe</string>
     <string name="screen_rotation_device_rotation">Device rotation</string>
     <string name="screen_rotation_aspect_ratio">Aspect ratio</string>
     <string name="dark_background_at_fullscreen">Dark background at fullscreen media</string>
